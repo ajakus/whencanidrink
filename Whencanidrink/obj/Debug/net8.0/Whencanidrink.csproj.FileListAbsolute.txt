@@ -1,0 +1,13 @@
+C:\Users\jakus\RiderProjects\Whencanidrink\Whencanidrink\bin\Debug\net8.0\Whencanidrink.deps.json
+C:\Users\jakus\RiderProjects\Whencanidrink\Whencanidrink\bin\Debug\net8.0\Whencanidrink.dll
+C:\Users\jakus\RiderProjects\Whencanidrink\Whencanidrink\bin\Debug\net8.0\Whencanidrink.pdb
+C:\Users\jakus\RiderProjects\Whencanidrink\Whencanidrink\obj\Debug\net8.0\Whencanidrink.csproj.AssemblyReference.cache
+C:\Users\jakus\RiderProjects\Whencanidrink\Whencanidrink\obj\Debug\net8.0\Whencanidrink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakus\RiderProjects\Whencanidrink\Whencanidrink\obj\Debug\net8.0\Whencanidrink.AssemblyInfoInputs.cache
+C:\Users\jakus\RiderProjects\Whencanidrink\Whencanidrink\obj\Debug\net8.0\Whencanidrink.AssemblyInfo.cs
+C:\Users\jakus\RiderProjects\Whencanidrink\Whencanidrink\obj\Debug\net8.0\Whencanidrink.csproj.CoreCompileInputs.cache
+C:\Users\jakus\RiderProjects\Whencanidrink\Whencanidrink\obj\Debug\net8.0\XamlC.stamp
+C:\Users\jakus\RiderProjects\Whencanidrink\Whencanidrink\obj\Debug\net8.0\Whencanidrink.dll
+C:\Users\jakus\RiderProjects\Whencanidrink\Whencanidrink\obj\Debug\net8.0\refint\Whencanidrink.dll
+C:\Users\jakus\RiderProjects\Whencanidrink\Whencanidrink\obj\Debug\net8.0\Whencanidrink.pdb
+C:\Users\jakus\RiderProjects\Whencanidrink\Whencanidrink\obj\Debug\net8.0\ref\Whencanidrink.dll

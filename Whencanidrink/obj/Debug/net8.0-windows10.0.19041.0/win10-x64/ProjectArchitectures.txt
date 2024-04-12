@@ -1,0 +1,1 @@
+C:\Users\jakus\RiderProjects\Whencanidrink\Whencanidrink\Whencanidrink.csproj;x64
